@@ -11,6 +11,8 @@
     //     console.log(num)
     // }
 
+// GetZeroPair Problem Number 1
+
 function getSumZeroPair(array){
     //For Of Loop Is Used To Print The Array Element
     for(let num of array){
